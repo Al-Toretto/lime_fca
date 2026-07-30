@@ -406,6 +406,3 @@ feature is probably not necessary for the local decision.
   Data*.
 - M. T. Ribeiro, S. Singh, C. Guestrin. *"Why Should I Trust You?": Explaining
   the Predictions of Any Classifier*.
-- A. Tomat, S. O. Kuznetsov, A. Nasykhova, E. Parakal, M. Glazkov, M. Zueva.
-  *Efficient Computations for Local Explanations of Black-Box Models Using
-  Pattern Structures*.
