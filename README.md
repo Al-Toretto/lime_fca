@@ -406,3 +406,20 @@ feature is probably not necessary for the local decision.
   Data*.
 - M. T. Ribeiro, S. Singh, C. Guestrin. *"Why Should I Trust You?": Explaining
   the Predictions of Any Classifier*.
+
+## Student implementation / internship example
+
+An independent implementation and experimental study of the proposed
+Pattern-Structure-based local explanation approach was developed by
+Denis Ushakov during a summer research internship at the HSE
+International Laboratory for Intelligent Systems and Structural Analysis.
+
+The implementation includes:
+- local neighborhood generation;
+- Interval Pattern Structure explanations;
+- generalization graphs;
+- comparison with a Decision Tree surrogate;
+- experiments on the Breast Cancer Wisconsin dataset.
+
+Repository:
+https://github.com/DeNNazaVR/AI
